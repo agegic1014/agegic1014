@@ -21,10 +21,12 @@
   [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?&logo=typescript&logoColor=ffffff)](https://typescriptlang.org)
   [![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?&logo=tailwindcss&logoColor=ffffff)](https://tailwindcss.com)
 - 💻 Programming Languages:
+  [![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)](https://rust-lang.org)
   [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff)](https://python.org)
   [![C#](https://img.shields.io/badge/C%23-7231C6?&logo=unity)](https://dotnet.microsoft.com/en-us/languages/csharp)
   [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org)
 - 🏗️ Frameworks:
+  [![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=ruby-on-rails&logoColor=white)](https://rubyonrails.org)
   [![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=fff&style=flat)](https://expressjs.com)
   [![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=000000)](https://react.dev)
   [![Node.js](https://img.shields.io/badge/-Node.js-339933?&logo=nodedotjs&logoColor=ffffff)](https://nodejs.org)
