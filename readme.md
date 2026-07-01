@@ -42,9 +42,9 @@
   [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](https://code.visualstudio.com)
   [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://linux.org)
 - 📬 How to reach me:
-  [![Linkedin](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/agegic)
-  [![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white)](https://linktr.ee/agegic)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagr.am/agegic)
+  [![Linkedin](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jemelito-constantino-a525b9187)
+  [![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white)](https://linktr.ee/jemelito)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagr.am/jemelito)
 - 📢 Languages: 🇺🇸 English | 🇻🇪 / 🇪🇸 Spanish | 🇯🇵 Japanese (JLPT N4).
 - ⚡ Fun fact: I am a [![Yelp](https://img.shields.io/badge/-Yelp-C41200?&logo=Yelp&logoColor=FFFFFF)](https://yelp.com/user_details?userid=JBqCl4WE7g9SPR-0y0tJzQ) Elite Squad member who loves ramen. 🍜
 - 💬 Interests: ✝️ Faith | 💪🏽 Fitness | 📚 Reading | 📈 Day Trading.
@@ -77,9 +77,9 @@
 ## ⭐ GitHub Commits & Contributions:
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agegic/agegic/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/agegic/agegic/output/pacman-contribution-graph.svg">
-    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/agegic/agegic/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jemelito/jemelito/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jemelito/jemelito/output/pacman-contribution-graph.svg">
+    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/jemelito/jemelito/output/pacman-contribution-graph.svg">
   </picture>
 </p>
 
@@ -93,9 +93,9 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px" alt="Hand Shake Emoji"/> Let's Stay Connected:</div>
 
-[<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="28">](https://linkedin.com/in/agegic)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/agegic)
-[<img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" height="28">](https://linktr.ee/agegic)
-[![](https://img.shields.io/badge/Social%20Media-8B0015?style=for-the-badge)](https://linktr.ee/agegic)
-[<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" height="28">](https://discord.com/users/agegic_)
-[![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/agegic_)
+[<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="28">](https://www.linkedin.com/in/jemelito-constantino-a525b9187)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/jemelito-constantino-a525b9187)
+[<img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" height="28">](https://linktr.ee/jemelito)
+[![](https://img.shields.io/badge/Social%20Media-8B0015?style=for-the-badge)](https://linktr.ee/jemelito)
+[<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" height="28">](https://discord.com/users/jemelito_)
+[![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/jemelito_)
